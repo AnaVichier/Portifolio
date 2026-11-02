@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://anaclaravichier.com.br/sitemap.xml
